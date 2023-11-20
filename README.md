@@ -1,7 +1,7 @@
 ### Hello World 😄!! 
 
 </> Rodrigo aqui, atualmente trabalho com análise de dados logísticos utilizando Power Bi, SQL e Python. 
-Sempre focado no aprendizado de novas tecnologias e linguagens. 📊📉💻
+📊📉💻
 
 ### Expertise
 
